@@ -33,4 +33,4 @@ jobs:
           pnpm install
 
       - name: Publish
-        run: pnpm publish --no-git-checks
+        run: pnpm publish --access public --tag latest --no-git-checks
