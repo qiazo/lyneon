@@ -1,19 +1,14 @@
 {
-  "name": "ts-lib-starter",
-  "version": "0.0.0",
-  "description": "My awesome typescript library",
-  "homepage": "https://github.com/kjxbyz/ts-lib-starter",
-  "bugs": "https://github.com/kjxbyz/ts-lib-starter/issues",
+  "name": "lyneon",
+  "version": "0.0.1-alpha.2",
+  "description": "The Beautiful Vue UI Component Library",
+  "homepage": "https://github.com/qiazo/lyneon",
+  "bugs": "https://github.com/qiazo/lyneon/issues",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kjxbyz/ts-lib-starter.git"
+    "url": "git+https://github.com/qiazo/lyneon.git"
   },
   "license": "MIT",
-  "author": {
-    "name": "kjxbyz",
-    "email": "kjxbyz888@outlook.com",
-    "url": "https://github.com/kjxbyz"
-  },
   "exports": {
     "import": {
       "types": "./dist/index.d.mts",
