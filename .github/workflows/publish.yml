@@ -8,7 +8,7 @@ on:
 jobs:
   publish:
     # prevents this action from running on forks
-    if: github.repository == 'kjxbyz/ts-lib-starter'
+    if: github.repository == 'qiazo/lyneon'
     runs-on: ubuntu-latest
     permissions:
       contents: read
